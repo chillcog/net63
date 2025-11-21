@@ -9,6 +9,8 @@ Anonymity is crucial on the dark web to avoid tracking. It involves using tools 
 ##### Tor: Primary tool for anonymity.
 ##### VPN over Tor: Additional layer.
 ##### OPSEC: Operational security practices.
+#### Tools:
+https://tails.net/
 
 ### Technical:
 #### Tor Anonymity:
