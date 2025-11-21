@@ -1,0 +1,28 @@
+site_name: Net 63
+
+theme:
+  name: material
+  palette:
+    - scheme: default
+      primary: indigo
+      accent: cyan
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+    - scheme: slate
+      primary: indigo
+      accent: cyan
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
+  features:
+    - content.code.copy
+    - navigation.instant
+    - search.suggest
+    - search.highlight
+    - navigation.sections
+
+use_directory_urls: true
+copyright: Copyright 2019-2026 Net 63 Security LTD
+site_author: Chillcog3142
+repo_url: https://git.kyle-speight.de/net63/site/

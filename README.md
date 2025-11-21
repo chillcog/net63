@@ -1,2 +1,2 @@
 # net63
-net63.shareforge.de
+https://net63.shareforge.de
