@@ -104,7 +104,6 @@ func getBaseURL(r *http.Request) string {
 	if r.TLS != nil {
 		proto = "https"
 	}
-	// Check for X-Forwarded-Proto header (common with reverse proxies)
 	if forwardedProto := r.Header.Get("X-Forwarded-Proto"); forwardedProto != "" {
 		proto = forwardedProto
 	}
