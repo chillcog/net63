@@ -1,6 +1,12 @@
-# Welcome to Net63 Docs
+# Welcome to Net63 Docs/Blog
 
 Dive into the world of cybersecurity, privacy, and the hidden corners of the internet with Net63 Docs. This blog-style documentation site covers essential topics for staying safe online, from basic security practices to advanced dark web navigation.
+
+# FIRST!! 
+Check which url you are using is it this one
+```
+net63f3o6uhsxm3223y7ikf7l6r3ro2bo7nwy5ptzjk4enzztzwacqyd
+```
 
 ## Sections
 
