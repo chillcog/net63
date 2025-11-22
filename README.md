@@ -1,10 +1,15 @@
-# net63
+# Welcome to net63
+<img width="316" height="242" alt="image" style="align: center;" src="https://github.com/user-attachments/assets/e7d7ed11-8699-46e9-896b-d26819670105" />![standard (2)](https://github.com/user-attachments/assets/5a8125ac-9bba-42ef-8ecc-f3baf1b257ca)
+<br>
+Striving to make the web more autononomous! 
 
-
+## Coming Soon
+Residential VPN's
+IPv6 Only VPN's
 
 
 <hr>
-<h1>@net63 on github is ***NOT** US***</h1>
+<h1>@net63 on github is <b>NOT</b> us</h1>
 <br>
 We only will ever have code posted here https://github.com/chillcog/net63/ and make sure that it is always secure!<br>
 <h3>OUR ONLY LINKS ARE LISTED HERE:</h3><br>
