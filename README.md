@@ -12,12 +12,13 @@ Striving to make the web more autononomous! We have a dream to truly make the we
 </ul>
 
 ### Want to donate a vpn? Contact Me at:
-chillcog3142@proton.me
-chillcog@net63.shareforge.de
-chillcog3142@shareforge.de
-@chillcog on discord
-[@ChillCog28899](https://x.com/ChillCog28899) on twitter
-
+<ul>
+<li>chillcog3142@proton.me</li>
+<li>chillcog@net63.shareforge.de</li>
+<li>chillcog3142@shareforge.de</li>
+<li>@chillcog on discord</li>
+<li>[@ChillCog28899](https://x.com/ChillCog28899) on twitter</li>
+</ul>
 <hr>
 <h1>@net63 on github is <b>NOT</b> us</h1>
 <br>
