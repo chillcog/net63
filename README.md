@@ -26,4 +26,6 @@ We only will ever have code posted here https://github.com/chillcog/net63/ and m
 <h3>OUR ONLY LINKS ARE LISTED HERE:</h3>
 <ol>
   <li>https://net63.shareforge.de</li>
+  <li>https://net63.publicvm.com</li>
+  <li>https://net63.linkpc.net</li>
 </ol>
