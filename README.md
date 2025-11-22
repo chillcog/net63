@@ -17,7 +17,7 @@ Striving to make the web more autononomous! We have a dream to truly make the we
 <li>chillcog@net63.shareforge.de</li>
 <li>chillcog3142@shareforge.de</li>
 <li>@chillcog on discord</li>
-<li>[@ChillCog28899](https://x.com/ChillCog28899) on twitter</li>
+<li><a href="https://x.com/ChillCog28899">@ChillCog28899</a> on twitter</li>
 </ul>
 <hr>
 <h1>@net63 on github is <b>NOT</b> us</h1>
