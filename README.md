@@ -9,6 +9,8 @@ Striving to make the web more autononomous! We have a dream to truly make the we
 <ul>
   <li>Residential VPN's</li>
   <li>IPv6 Only VPN's</li>
+  <li>Open Source VPN Client</li>
+  <li>Community Driven Private Email</li>
 </ul>
 
 ### Want to donate a vpn? Contact Me at:
